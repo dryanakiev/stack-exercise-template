@@ -1,4 +1,4 @@
-# stack-exercise-template
+# stack-exercise
 
 Write a Stack class that represents a basic stack data structure. The Stack class should have the following methods:
 
